@@ -8,8 +8,8 @@ class Program
         string[] names = { "Андрій", "Ольга", "Іван", "Марія", "Світлана" };
 
         // Масиви оцінок
-        int[] mathScores = { 78, 85, 78, 92, 85 };
-        int[] physicsScores = { 85, 88, 82, 89, 90 };
+        int[] mathScores = { 55, 85, 78, 63, 85 };
+        int[] physicsScores = { 60, 88, 100, 68, 90 };
 
         Console.WriteLine("Список учнів і їхні оцінки:");
         PrintStudents(names, mathScores, physicsScores);
